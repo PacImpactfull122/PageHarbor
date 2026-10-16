@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "book-read"
+version = "1.0.0"
+description = "Read mdBook projects and offline books in the terminal"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = ["textual>=8.2.8,<9"]
+
+[project.scripts]
+book-read = "book_read.__main__:main"
+book-download = "book_read.download:main"
+
+[tool.setuptools.packages.find]
+include = ["book_read*"]

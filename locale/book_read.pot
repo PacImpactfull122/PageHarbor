@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: book-read 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/PacImpactfull122/book-read/issues\n"
+"POT-Creation-Date: 2026-10-16 22:33+0000\n"
+"PO-Revision-Date: 2026-10-16 22:33+0000\n"
+"Last-Translator: book-read maintainers\n"
+"Language-Team: book-read translation contributors\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Quit"
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Previous"
+msgstr ""
+
+msgid "Go to"
+msgstr ""
+
+msgid "Filter"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Theme"
+msgstr ""
+
+msgid "Focus"
+msgstr ""
+
+msgid "Reload"
+msgstr ""
+
+msgid "Clear filter"
+msgstr ""
+
+msgid "Filter titles  /"
+msgstr ""
+
+msgid ""
+"Navigation\n"
+"  tab          switch focus between table of contents and text\n"
+"  arrows/pgup  scroll the text when it has focus\n"
+"  ]  [         next / previous chapter\n"
+"  g            go to a chapter number\n"
+"  /            filter table of contents titles\n"
+"  ctrl+f       search the whole book\n"
+"  t            change the theme\n"
+"  r            reload the current chapter from disk\n"
+"  ?  F1        show this help\n"
+"  q            quit\n"
+"\n"
+"In the table of contents: arrows move, enter opens a chapter\n"
+"In search: enter searches, arrows select a result, esc closes the dialog"
+msgstr ""
+
+msgid "{words} words. F1 help. Ctrl+F search."
+msgstr ""
+
+msgid "Chapter {number} reloaded."
+msgstr ""
+
+msgid "Could not save reader state: {error}"
+msgstr ""
+
+msgid "Go to chapter (1-{total})"
+msgstr ""
+
+msgid "Chapter number"
+msgstr ""
+
+msgid "Enter a chapter number."
+msgstr ""
+
+msgid "Search the whole book"
+msgstr ""
+
+msgid "Search term..."
+msgstr ""
+
+msgid "No matches found."
+msgstr ""
+
+msgid "{count} match(es)"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "book-read - keyboard help"
+msgstr ""
